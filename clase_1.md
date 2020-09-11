@@ -137,9 +137,9 @@ Tabla 2: Tabla de verdad de 2 entradas y 1 salida.
 ¿n entradas y k salidas?
 
 - n + k columnas.
-- 2 <sup>n</sup> filas.
-- n * k signos de interrogación.
-- 2 <sup>(2 <sup>n</sup> * k)</sup> posibilidades.
+- 2 <sup>n</sup> filas = x
+- x * k signos de interrogación.
+- 2 <sup>(x * k)</sup> posibilidades.
 
 ## Álgebra de Boole
 
